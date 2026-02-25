@@ -234,8 +234,7 @@ For production use, consider:
 If you use this tutorial in your work, please cite:
 
 ```
-Tan Aik Kah (2025). BARC Tutorial: Hierarchical Bayesian Evidence 
-Integration for Pharmacovigilance. GitHub repository:
+Tan Aik Kah (2025). BARC Tutorial: Hierarchical Bayesian Evidence Integration for Rare Safety Signals: A Reproducible Tutorial Using PyMC. GitHub repository:
 https://github.com/BARC-commits/BARC_GLP1_NAION
 ```
 
@@ -243,7 +242,7 @@ BibTeX:
 ```bibtex
 @misc{tan2025barc,
   author = {Tan, Aik Kah},
-  title = {BARC Tutorial: Hierarchical Bayesian Evidence Integration for Pharmacovigilance},
+  title = {Hierarchical Bayesian Evidence Integration for Rare Safety Signals: A Reproducible Tutorial Using PyMC},
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/BARC-commits/BARC_GLP1_NAION}
